@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="google_id_token" translatable="false">831394365861-qbsntt1sq9499p15h2ql1jug9u1l5av9.apps.googleusercontent.com</string>
+    <string name="firebase_instance" translatable="false">https://todoapp-ef745-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
+</resources>
