@@ -6,10 +6,8 @@ An Android To-Do application built using Java and Firebase for real-time data st
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,10 +23,6 @@ This Android To-Do App allows users to create, edit, and manage their tasks on t
 - Task categorization.
 - Priority management.
 - Task due dates.
-
-## Screenshots
-
-Include some screenshots of your app here to give users a visual idea of what to expect.
 
 ## Getting Started
 
@@ -46,16 +40,10 @@ To get started with this project, follow these steps:
 
 ## Dependencies
 
-List the dependencies your project relies on. For example:
-
 - Firebase Realtime Database
 - Firebase Authentication
 - RecyclerView
 - ...
-
-## Usage
-
-Provide instructions on how to use your app. Include any special setup, configuration, or usage details.
 
 ## Contributing
 
