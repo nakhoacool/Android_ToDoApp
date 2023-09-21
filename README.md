@@ -1,7 +1,5 @@
 # Android To-Do App
 
-An Android To-Do application built using Java and Firebase for real-time data storage and synchronization.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
